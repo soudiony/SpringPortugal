@@ -1,0 +1,27 @@
+PADRAO PROJETO MVC.. 
+MODEL-VIEW-CONTROLLER / MODELO - VISUALIZAR - CONTROLAR.
+
+*MODELO: A LOGICA D APROGRAMAÇÃO (MODEL model)
+**VISAO: INTERFACE GRAFICA
+***CONTROLADORA: INTERMEDIA MODELO x VISAO
+
+******************************
+ARQUIVO HTML
+chamar msg vindo de modelo(model)!
+<p th:text="${mensagem}"></p>
+
+
+
+
+*******************************
+
+Diz que existe uma lista de caminhos, a navegar
+@Controller
+
+
+Endereço do Endpoint, indica o caminho
+@RequestMapping("/....")
+public....(Model model)
+model.addAttribute("var","frase")
+
+PASTA RESOURCES
