@@ -10,4 +10,6 @@ public class SpringAulaApplication {
 		SpringApplication.run(SpringAulaApplication.class, args);
 	}
 
+
+
 }

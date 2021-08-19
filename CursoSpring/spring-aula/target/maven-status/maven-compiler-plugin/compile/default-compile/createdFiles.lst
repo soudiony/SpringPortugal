@@ -1,0 +1,5 @@
+com\spring\aula\springaula\Direciona.class
+com\spring\aula\springaula\SpringAulaApplication.class
+com\spring\aula\springaula\controller\EmpregoController.class
+com\spring\aula\springaula\modelo\Emprego.class
+com\spring\aula\springaula\repository\EmpregoRepository.class
